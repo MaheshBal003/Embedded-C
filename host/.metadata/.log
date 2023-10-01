@@ -1,0 +1,129 @@
+!SESSION 2023-02-01 23:34:19.089 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-02-01 23:35:35.832
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-02-01 23:35:36.029
+!MESSAGE Log4j initialized with config file C:\Embedded-C\Instructor\host\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-02-01 23:35:46.906
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:06.653
+!MESSAGE Indexed 'switchCaseArea' (1 sources, 8 headers) in 1.11 sec: 437 declarations; 1,003 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:06.785
+!MESSAGE Indexed 'union' (1 sources, 8 headers) in 0.11 sec: 431 declarations; 930 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:06.894
+!MESSAGE Indexed 'ifstatementCastVote' (1 sources, 8 headers) in 0.105 sec: 428 declarations; 926 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:06.953
+!MESSAGE Indexed 'macro' (1 sources, 6 headers) in 0.055 sec: 397 declarations; 878 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.026
+!MESSAGE Indexed 'forloopNumberPyramid' (1 sources, 8 headers) in 0.071 sec: 434 declarations; 935 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.110
+!MESSAGE Indexed 'ASCII' (1 sources, 6 headers) in 0.081 sec: 402 declarations; 876 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.229
+!MESSAGE Indexed 'pointer_1' (1 sources, 6 headers) in 0.106 sec: 401 declarations; 878 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.335
+!MESSAGE Indexed 'arrays_passing' (1 sources, 8 headers) in 0.101 sec: 437 declarations; 940 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.536
+!MESSAGE Indexed 'student_record' (1 sources, 10 headers) in 0.198 sec: 786 declarations; 1,576 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.604
+!MESSAGE Indexed 'type_casting' (1 sources, 6 headers) in 0.065 sec: 398 declarations; 861 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.671
+!MESSAGE Indexed 'pointer' (1 sources, 6 headers) in 0.064 sec: 399 declarations; 869 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.754
+!MESSAGE Indexed 'test' (1 sources, 6 headers) in 0.081 sec: 399 declarations; 863 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.817
+!MESSAGE Indexed 'ifelseifTax' (1 sources, 8 headers) in 0.06 sec: 434 declarations; 948 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.912
+!MESSAGE Indexed 'struct_array' (1 sources, 10 headers) in 0.09 sec: 737 declarations; 1,423 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:07.972
+!MESSAGE Indexed 'pointer_2' (1 sources, 8 headers) in 0.055 sec: 429 declarations; 929 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.029
+!MESSAGE Indexed 'strings' (1 sources, 6 headers) in 0.053 sec: 396 declarations; 871 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.099
+!MESSAGE Indexed 'bitWiseEvenOdd' (1 sources, 8 headers) in 0.066 sec: 432 declarations; 929 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.156
+!MESSAGE Indexed 'WhileLoop1to10' (1 sources, 8 headers) in 0.054 sec: 432 declarations; 924 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.214
+!MESSAGE Indexed 'math' (2 sources, 7 headers) in 0.054 sec: 420 declarations; 873 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.15%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.256
+!MESSAGE Indexed 'function' (1 sources, 6 headers) in 0.037 sec: 405 declarations; 867 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.314
+!MESSAGE Indexed 'structInit' (1 sources, 8 headers) in 0.057 sec: 431 declarations; 922 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.365
+!MESSAGE Indexed 'arrays_swap' (1 sources, 8 headers) in 0.048 sec: 457 declarations; 1,013 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.426
+!MESSAGE Indexed 'arrays' (1 sources, 8 headers) in 0.059 sec: 430 declarations; 933 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.475
+!MESSAGE Indexed 'dataAlignment' (1 sources, 8 headers) in 0.047 sec: 436 declarations; 944 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.522
+!MESSAGE Indexed 'forLoopEvenNum' (1 sources, 8 headers) in 0.045 sec: 434 declarations; 941 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.568
+!MESSAGE Indexed 'ifelseBiggestOfTwo' (1 sources, 8 headers) in 0.045 sec: 435 declarations; 949 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.648
+!MESSAGE Indexed 'whileLoopEvenNum' (1 sources, 8 headers) in 0.077 sec: 434 declarations; 941 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.710
+!MESSAGE Indexed 'bitWise2Numbers' (1 sources, 8 headers) in 0.059 sec: 433 declarations; 936 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.768
+!MESSAGE Indexed 'test2' (1 sources, 6 headers) in 0.054 sec: 399 declarations; 869 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.849
+!MESSAGE Indexed 'structPointer' (1 sources, 8 headers) in 0.078 sec: 437 declarations; 942 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.902
+!MESSAGE Indexed 'Average' (1 sources, 6 headers) in 0.05 sec: 400 declarations; 872 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:08.957
+!MESSAGE Indexed 'ifelseCastVote' (1 sources, 8 headers) in 0.052 sec: 428 declarations; 925 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:09.041
+!MESSAGE Indexed 'structPacketBitfield' (1 sources, 8 headers) in 0.083 sec: 438 declarations; 989 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:09.106
+!MESSAGE Indexed 'unionBitExraction' (1 sources, 8 headers) in 0.062 sec: 440 declarations; 966 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:09.171
+!MESSAGE Indexed 'structPacket' (1 sources, 8 headers) in 0.061 sec: 438 declarations; 989 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:09.283
+!MESSAGE Indexed 'constdata' (1 sources, 8 headers) in 0.106 sec: 429 declarations; 926 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:09.385
+!MESSAGE Indexed 'var_address' (1 sources, 4 headers) in 0.06 sec: 289 declarations; 622 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-01 23:38:09.476
+!MESSAGE Indexed 'bitWiseSet' (1 sources, 8 headers) in 0.084 sec: 433 declarations; 929 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

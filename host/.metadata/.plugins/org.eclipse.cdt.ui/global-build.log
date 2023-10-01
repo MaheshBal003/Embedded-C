@@ -1,0 +1,6 @@
+23:55:48 **** Rebuild of configuration Debug for project ASCII ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o ASCII.o "..\\ASCII.c" 
+..\ASCII.c: In function 'main':
+..\ASCII.c:20: warning: control reaches end of non-void function
+gcc -o ASCII.exe ASCII.o 
